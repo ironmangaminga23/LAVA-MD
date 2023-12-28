@@ -36,7 +36,7 @@ module.exports = {
       ];
       let buth = {
         text: `*ℹ️Command Info*\n\n${data.join("\n")}`,
-        footer: "*©Eternity-Team*",
+        footer: "*© IRONBOTZ Team*",
         buttons: buttonss,
         headerType: 1,
       };
@@ -67,7 +67,7 @@ module.exports = {
       } else {
         var emo = ["📖","🎉", "🍁", "🍀", "🌊", "🎵", "🔞", "🎟", "♨️", "🉐"];
       }
-      let txt = `*Kon'nichiwa (｡♡‿♡｡)* ${pushName} Watashiwa *Nezuko*.
+      let txt = `*Kon'nichiwa (｡♡‿♡｡)* ${pushName} Watashiwa *Lava MD*.
                        
 🧧 *Prefix :* [ ${prefix} ]
                        
